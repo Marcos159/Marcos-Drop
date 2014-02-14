@@ -11,7 +11,7 @@ import android.view.Menu;
 
 /**
  * Clase principal para la versión Android del proyecto
- * @author Santiago Faci
+ * @author Marcos Escribano
  *
  */
 public class AndroidDrop extends AndroidApplication {

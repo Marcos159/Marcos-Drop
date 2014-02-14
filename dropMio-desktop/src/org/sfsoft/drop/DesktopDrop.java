@@ -7,7 +7,7 @@ import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
 
 /**
  * Clase principal de la versión de escritorio (PC) del juego
- * @author Santiago Faci
+ * @author Marcos Escribano
  *
  */
 public class DesktopDrop {
